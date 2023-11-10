@@ -53,9 +53,9 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
 
 ### Specifications
 
-- [JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519) - JWT specifications used for different tokens mentioned in OAuth 2.0 and OpenID Connect specifications.
+- [JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519) - JWT specifications used for different tokens.
 - [JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens](https://datatracker.ietf.org/doc/html/rfc9068) - JWT format and validation specifications in the context of OAuth 2.0.
-- [JSON Web Key (JWK)](https://datatracker.ietf.org/doc/html/rfc7517) - JavaScript Object Notation (JSON) data structure that represents a cryptographic key provided by OpenID Connect Provider. 
+- [JSON Web Key (JWK)](https://datatracker.ietf.org/doc/html/rfc7517) - JavaScript Object Notation (JSON) data structure that represents a cryptographic key. 
 - [JSON Web Encryption (JWE)](https://datatracker.ietf.org/doc/html/rfc7516) - Specifications for JWE which represents encrypted content using JSON-based data structures.
 - [JSON Web Signature (JWS)](https://datatracker.ietf.org/doc/html/rfc7515) - Specifications for JWS which represents content secured with digital signatures.
 
