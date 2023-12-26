@@ -35,6 +35,7 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
 
 ### JavaScript
 
+- [fast-jwt](https://github.com/nearform/fast-jwt) - JSON Web Token implementation used by Fastify official JWT plugin.
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - A JavaScript implementation of JSON Web Token maintained by Auth0.
 
 ### PHP
