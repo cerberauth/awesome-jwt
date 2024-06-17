@@ -42,6 +42,7 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
 ### PHP
 
 - [firebase/php-jwt](https://github.com/firebase/php-jwt) - A simple library to encode and decode JSON Web Tokens (JWT) in PHP maintained by Firebase team.
+- [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - Symfony bundle to handle JWT authentication.
 
 ### Python
 
