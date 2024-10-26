@@ -69,6 +69,7 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
 ### Websites
 
 - [jwt.io](https://jwt.io/) - Reference website crafted by Auth0 (Okta).
+- [IANA JSON Web Token Claims Registry](https://www.iana.org/assignments/jwt/jwt.xhtml) - Registry listing all registered claims used in JWT.
 
 ## Contributing
 
