@@ -16,6 +16,7 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
     - [Specifications](#specifications)
     - [Draft Specifications](#draft-specifications)
     - [Websites](#websites)
+- [JWT Alternatives](#jwt-alternatives)
 
 ---
 
@@ -70,6 +71,11 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
 
 - [jwt.io](https://jwt.io/) - Reference website crafted by Auth0 (Okta).
 - [IANA JSON Web Token Claims Registry](https://www.iana.org/assignments/jwt/jwt.xhtml) - Registry listing all registered claims used in JWT.
+
+## JWT Alternatives
+
+- [Biscuit](https://www.biscuitsec.org/) - An authorization token with decentralized verification, offline attenuation and strong security policy enforcement based on a logic language.
+- [PASETO](https://paseto.io/) - Platform-Agnostic Security Tokens (PASETO) is a secure alternative to JWT that focuses on simplicity and security.
 
 ## Contributing
 
