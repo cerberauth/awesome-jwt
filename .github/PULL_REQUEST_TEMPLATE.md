@@ -18,3 +18,4 @@
 - [ ] Has consistent formatting and proper spelling/grammar.
 	- The link and description are separated by a dash.
 	- The description starts with an uppercase character and ends with a period.
+- [ ] Optional: If you’re adding a resource because you find this awesome list useful, consider giving the repository a ⭐. It helps others discover both this project and the item you’re contributing.
