@@ -6,12 +6,14 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
 
 - [JWT Libraries](#jwt-libraries)
     - [C#](#c)
+    - [Elixir](#elixir)
     - [Golang](#golang)
     - [Java](#java)
     - [JavaScript](#javascript)
     - [PHP](#php)
     - [Python](#python)
     - [Ruby](#ruby)
+    - [Rust](#rust)
 - [Resources](#resources)
     - [Specifications](#specifications)
     - [Draft Specifications](#draft-specifications)
@@ -26,6 +28,11 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
 ### C#
 
 - [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Minimallistic zero-dependency library for generating, decoding and encryption JSON Web Tokens.
+
+### Elixir
+
+- [joken](https://github.com/joken-elixir/joken) - Encoding and decoding library for Elixir, with pluggable claim validation.
+- [guardian](https://github.com/ueberauth/guardian) - Elixir auth framework using JWT.
 
 ### Golang
 
@@ -49,10 +56,15 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
 ### Python
 
 - [PyJWT](https://github.com/jpadilla/pyjwt/) - JSON Web Token implementation in Python.
+- [python-jose](https://github.com/mpdavis/python-jose) - Implementation of the JOSE specifications (JWS, JWE, JWK, JWA) in Python.
 
 ### Ruby
 
 - [jwt](https://github.com/jwt/ruby-jwt) - A Ruby implementation of the JSON Web Token (JWT) standard.
+
+### Rust
+
+- [jsonwebtoken](https://github.com/Keats/jsonwebtoken) - Creation and decoding library for Rust.
 
 ## Resources
 
