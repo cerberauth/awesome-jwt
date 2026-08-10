@@ -14,6 +14,7 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
     - [Python](#python)
     - [Ruby](#ruby)
     - [Rust](#rust)
+	- [TypeScript](#typescript)
 - [Resources](#resources)
     - [Specifications](#specifications)
     - [Draft Specifications](#draft-specifications)
@@ -47,6 +48,10 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
 
 - [fast-jwt](https://github.com/nearform/fast-jwt) - JSON Web Token implementation used by Fastify official JWT plugin.
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - A JavaScript implementation of JSON Web Token maintained by Auth0.
+
+### TypeScript
+
+- [lacewing](https://www.npmjs.com/package/lacewing) - A typescript opinionated library that makes common security mistakes impossible by construction.
 
 ### PHP
 
