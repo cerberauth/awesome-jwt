@@ -95,6 +95,8 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
 - [jwt_tool](https://github.com/ticarpi/jwt_tool) - A toolkit for validating, forging, scanning and tampering JWTs.
 - [jwt-hack](https://github.com/hahwul/jwt-hack) - A tool for hacking and testing JWT tokens, supporting various attack vectors and token analysis.
 - [JWTop](https://github.com/cerberauth/jwtop) - A toolkit for developers to decode, verify, generate, sign, crack, and exploit JWTs.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
 ## JWT Alternatives
 
