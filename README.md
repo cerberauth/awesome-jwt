@@ -87,6 +87,7 @@ A curated list of awesome libraries and resources about JSON Web Token (JWT), a 
 ### Websites
 
 - [jwt.io](https://jwt.io/) - Reference website crafted by Auth0 (Okta).
+- [OnlineMiniTools JWT Decoder](https://onlineminitools.com/jwt-decoder) - Decode header and payload claims, check expiry and verify HMAC signatures in the browser; free, no account.
 - [IANA JSON Web Token Claims Registry](https://www.iana.org/assignments/jwt/jwt.xhtml) - Registry listing all registered claims used in JWT.
 - [JWT & JWE Debugger](https://www.authgear.com/tools/jwt-jwe-debugger) - In-browser Open-Source JWT/JWE debugger, with examples, encryption and decryption.
 
